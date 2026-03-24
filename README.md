@@ -2,9 +2,7 @@
 This project focuses on building an intelligent system that automatically generates cricket match highlights by analyzing ball-by-ball data. The system identifies key events such as boundaries, wickets, milestones, and high-impact moments to produce a concise and engaging summary of the match.
 
 ## Developed by
-HARSHINI V (111522104059)  
-BHUVANASHREE T (111522104024)  
-AVULA VENKATA LIKHITHA RANI (111522104023)  
+HARSHINI V - 111522104059 
 
 (from RMD ENGINEERING COLLEGE)
 
